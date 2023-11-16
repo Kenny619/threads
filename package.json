@@ -1,0 +1,19 @@
+{
+  "name": "threads",
+  "version": "0.9.0",
+  "description": "Manages Tasks that are ran concurreently",
+  "main": "threads.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenny619/threads.git"
+  },
+  "author": "Kenny619",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kenny619/threads/issues"
+  },
+  "homepage": "https://github.com/Kenny619/threads#readme"
+}
